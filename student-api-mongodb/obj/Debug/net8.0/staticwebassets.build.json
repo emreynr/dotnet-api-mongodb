@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t9Iw1aXbzGvxkcuraKs4oAMNaOLS0Rjwe0obWI+A56A=",
+  "Source": "student-api-mongodb",
+  "BasePath": "_content/student-api-mongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
